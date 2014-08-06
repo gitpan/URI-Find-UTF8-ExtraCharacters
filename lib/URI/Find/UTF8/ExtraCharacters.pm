@@ -1,5 +1,5 @@
 package URI::Find::UTF8::ExtraCharacters;
-$URI::Find::UTF8::ExtraCharacters::VERSION = '0.02';
+$URI::Find::UTF8::ExtraCharacters::VERSION = '0.03';
 use strict;
 use warnings;
 
